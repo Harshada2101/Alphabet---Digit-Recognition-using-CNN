@@ -1,1 +1,1 @@
-# Alphabet---Digit-Recognition-using-CNN
+# Alphabet-&-Digit-Recognition-using-CNN
